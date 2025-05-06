@@ -5,3 +5,6 @@
 </p>
 
 # Elastic-SIEM-Highlights
+
+
+➜ Ingested and analyzed security logs using Elastic SIEM.
