@@ -4,7 +4,10 @@
   </a>
 </p>
 
-# Elastic-SIEM-Highlights
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Samuel-Cavada/Elastic-SIEM-Highlights/main/images/Elasticsiem.png" alt="Elastic SIEM Highlights" width="600">
+</p>
 
+> This section highlights experience with Elastic SIEM for real-time log ingestion and security analysis.
 
-➜ Ingested and analyzed security logs using Elastic SIEM.
+- Ingested and analyzed security logs using Elastic SIEM to support threat detection and incident response.
